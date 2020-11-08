@@ -67,7 +67,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Intake (week 1)
--uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
 **Je startniveau:** Blauw
 
@@ -81,4 +80,4 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/tweedepaginajpeg" width="375px" alt="tweede pagina h&m">
+<img src="images/tweedepagina.jpeg" width="375px" alt="tweede pagina h&m">
