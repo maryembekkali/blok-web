@@ -54,11 +54,11 @@ Ik heb bijna alle content van de eerste pagina gemaakt, hierbij moet ik alleen n
 
 -samen met je groepje opstellen-
 
-| Student 1 - Zoe | Student 2 - Maryem | Student 3 - Anne | student 4 - Sem |
+| Student 1 - Zoe | Student 2 - Maryem | Student 3 - Anne | Student 4 - Sem |
 | ---            | ---                | ---          | ---              |
 | Mijn website  | Mijn website  | Mijn website  | Mijn website  |
-| Breakpoint | Slider | Zoekbalk en menu | Menu en nav |
-| ...            | ...                | ...          | ...              |
+| Breakpoint | Slider | Waar kan ik het best mee beginnen | Menu en nav |
+| Product slider | Uitklappen van menu | Zoekbalk en animatie menu  | Automatische letter slider             |
 
 ### Verslag van meeting
 
