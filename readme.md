@@ -54,10 +54,10 @@ Ik heb bijna alle content van de eerste pagina gemaakt, hierbij moet ik alleen n
 
 -samen met je groepje opstellen-
 
-| student 1      | student 2          | student 3    | student 4        |
+| student 1 Zoe     | student 2 Maryem         | student 3 Anne   | student 4 Sem       |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| Mijn website  | Mijn website  | Mijn website  | Mijn website  |
+| Breakpoint | Slider | nog een punt | Menu en nav |
 | ...            | ...                | ...          | ...              |
 
 ### Verslag van meeting
