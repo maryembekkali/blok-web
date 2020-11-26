@@ -3,3 +3,61 @@
   box-sizing:border-box;  
 }
 
+
+
+body{
+	font-family: arial;
+	background-color: #FAF9F8;
+	text-align: center;
+	margin: 0px auto 40px auto;
+}
+
+header img{
+	max-width: 2em;
+	max-height: 2em;
+}
+
+img{
+	max-width: 15em;
+	max-height: 15em;
+}
+
+header {
+	background-color: #FAF9F8;
+}
+
+ul{
+	list-style-type: none;
+}
+
+section{
+	margin: 0px auto;
+}
+
+.whitebackground{
+	background: white;
+	max-width: 15em;
+}
+
+.subscribe{
+	background-color: #F5EFE7;
+}
+
+.magazine{
+	background-color: #F1E9D4;
+}
+
+.noracism{
+	background-color: white;
+	max-width: 15em;
+}
+
+.slider{
+	display: flex;
+}
+
+.rond{
+	border-radius:50em;
+	max-width: 3em;
+	max-height: 3em;
+}

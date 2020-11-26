@@ -39,10 +39,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Stand van zaken
 
 -dit ging goed & dit was lastig-
+De huiswerkopdrachten gingen goed. Ik was er alleen wel lang mee bezig. Verder vond ik de opdrachten over Javascript nog best lastig. De lessen vind ik erg fijn en Vasilis geeft duidelijke antwoorden op de vragen.
 
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent met korte uitleg-
+Ik heb bijna alle content van de eerste pagina gemaakt, hierbij moet ik alleen nog de footer. Ik ben al begonnen met het een en ander in CSS, maar ben daar nog niet heel ver mee.
 
 ### Agenda voor meeting
 
