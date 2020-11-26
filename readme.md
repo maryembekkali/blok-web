@@ -48,7 +48,7 @@ De huiswerkopdrachten gingen goed. Ik was er alleen wel lang mee bezig. Verder v
 <br>
 Ik heb bijna alle content van de eerste pagina gemaakt, hierbij moet ik alleen nog de footer. Ik ben al begonnen met het een en ander in CSS, maar ben daar nog niet heel ver mee.
 <br>
-<img src="images/mijnwebsite.pdf" width="375px" alt="eerste pagina h&m">
+<img src="images/mijnwebsite.jpg" width="375px" alt="eerste pagina h&m">
 
 ### Agenda voor meeting
 
@@ -82,8 +82,8 @@ Ik heb bijna alle content van de eerste pagina gemaakt, hierbij moet ik alleen n
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/homepage.jpeg" width="375px" alt="eerste pagina h&m">
+<img src="images/homepage.jpg" width="375px" alt="eerste pagina h&m">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/dresses.jpeg" width="375px" alt="tweede pagina h&m">
+<img src="images/dresses.jpg" width="375px" alt="tweede pagina h&m">
