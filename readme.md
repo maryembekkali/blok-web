@@ -47,6 +47,8 @@ De huiswerkopdrachten gingen goed. Ik was er alleen wel lang mee bezig. Verder v
 -screenshot(s) van hoe ver je bent met korte uitleg-
 <br>
 Ik heb bijna alle content van de eerste pagina gemaakt, hierbij moet ik alleen nog de footer. Ik ben al begonnen met het een en ander in CSS, maar ben daar nog niet heel ver mee.
+<br>
+<img src="images/mijnwebsite.pdf" width="375px" alt="eerste pagina h&m">
 
 ### Agenda voor meeting
 
