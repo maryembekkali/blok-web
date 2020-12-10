@@ -35,7 +35,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 | Student 1 - Zoe | Student 2 - Maryem | Student 3 - Anne | Student 4 - Sem |
 | ---            | ---                | ---          | ---              |
-| -  | Menu/nav  | Tekst in afbeelding  | Paralex scrol in afbeelding  |
+| Elmenten voor nav  | Menu/nav  | Tekst in afbeelding  | Paralex scrol in afbeelding  |
 | - | Content na nav | Div in goed container | Slider animatie |
 | - | Hoeveelheid h1 | Breakdownschets controleren  | Flexbox layout |
 | - | Hoeveelheid css | -  | - |
