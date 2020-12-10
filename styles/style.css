@@ -3,61 +3,311 @@
   box-sizing:border-box;  
 }
 
-
-
 body{
-	font-family: arial;
+	font-family: Helvetica, Arial;
 	background-color: #FAF9F8;
 	text-align: center;
-	margin: 0px auto 40px auto;
+}
+
+
+/*header*/
+header{
+	position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    background-color: #FAF9F8;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    padding: 0em;
+}
+
+nav div{
+	flex-grow: 1;
+}
+
+nav ul{
+	list-style-type: none;
+    flex-grow: 1;
+    display: flex;
+}
+
+nav li{
+	flex-grow: 1;
 }
 
 header img{
-	max-width: 2em;
-	max-height: 2em;
+	max-width: 1.5em;
+	margin: .5em .25em;
 }
 
-img{
-	max-width: 15em;
-	max-height: 15em;
-}
 
-header {
-	background-color: #FAF9F8;
-}
-
-ul{
-	list-style-type: none;
-}
-
-section{
+/*main*/
+main{
+/*	position: relative;
+	top: 100px;*/				/*deze 2 eigenlijk zodat main onder header begint, maar dan komt header eronder.*/
+	
+	width: 90%;
 	margin: 0px auto;
 }
 
-.whitebackground{
-	background: white;
-	max-width: 15em;
+/*eerste stuk tekst*/
+.hoofdletter{
+	text-transform: uppercase;
+	font-size: .6em;
+}
+/*tekstblokje*/
+.tekstblokje{
+	background-color: #F5EFE7;
+	padding: 1.3em 0;
+}
+
+.tekstblokje2{
+	background-color: #F2E4DE;
+	padding: 1.3em 0;
 }
 
 .subscribe{
-	background-color: #F5EFE7;
+	width: 75%;
+	margin: 0px auto;
+	padding: .25em 0;
 }
 
-.magazine{
-	background-color: #F1E9D4;
+h1.subscribe{
+	font-size: 1em;
+	letter-spacing: .5px;
 }
 
+p.subscribe{
+	font-size: .8em;
+}
+/*trending*/
+div.trending h1{
+	font-size: 1em;
+	display: flex;
+	justify-content: left;
+	padding: 1em 0 0 0;
+}
+
+div.trending ul{
+    list-style-type: none;
+    display: flex;
+    padding: 0em;
+    justify-content: center;
+}
+
+div.trending li{
+	flex-grow: 1;
+}
+
+div.trending img{
+	border-radius:50em;
+	max-width: 4.3em;
+	margin: 0 0 .5em 0;
+}
+
+div.trending p{
+	font-size: .6em;
+	margin: .5em 0;
+	font-weight: bold;
+}
+
+.categorie{
+	font-weight: bold;
+	color: #555555;
+}
+
+/*campaign*/
+div.campaign ul{
+	list-style-type: none;
+    padding: 0em;
+}
+
+div.campaign li{
+	position: relative;
+}
+
+div.campaign img{
+	max-width: 100%;
+	margin: .7em 0;
+}
+
+div.campaign p{
+	position: absolute;
+	color: white;
+	letter-spacing: 1px;
+}
+.prijs{
+	background: rgb(0 0 0 / 55%);
+	border-radius: .4em;
+	padding: 1em 3.5em 1em .5em;
+}
+.prijs2{
+	padding: 1em 2em;
+}
+.dik{
+	bottom:0;
+	left: 0;
+	right: 0;
+	font-weight: bold;
+}
+.dun{
+	left: 0;
+	right: 0;
+}
+li.campaign1 p.prijs{
+	right: 2em;
+	top: 6em;
+}
+li.campaign1 p.prijs2{
+	right: 1em;
+	top: 6em;
+}
+li.campaign1 p.dik{
+	padding: 1.5em 0;
+}
+li.campaign1 p.dun{
+	bottom: 0;
+	padding: 3em 0;
+	background-image: linear-gradient(rgba(0,0,0,0), rgb(0 0 0 / 30%));
+}
+
+li.campaign2 p.prijs{
+	left: 2em;
+	top: 10em;
+}
+li.campaign2 p.prijs2{
+	left: 6em;
+	top: 10em;
+}
+li.campaign2 p.dik{
+	padding: 3em 0 2.5em 0;
+	background-image: linear-gradient(rgba(0,0,0,0), rgb(0 0 0 / 30%));
+}
+li.campaign2 p.dun{
+	font-size: .6em;
+	bottom:1.5em;
+	padding: 1.5em;
+}
+
+li.campaign3 p.prijs{
+	right: 2em;
+	top: 6em;
+}
+li.campaign3 p.prijs2{
+	right: 1em;
+	top: 6em;
+}
+li.campaign3 p.dik{
+	padding: 3em 0 2.5em 0;
+	background-image: linear-gradient(rgba(0,0,0,0), rgb(0 0 0 / 30%));
+}
+li.campaign3 p.dun{
+	bottom: .5em;
+	padding: .5em;
+}
+
+li.campaign4 p.prijs{
+	right: 2em;
+	top: 6em;
+}
+li.campaign4 p.prijs2{
+	right: 1em;
+	top: 6em;
+}
+li.campaign4 p.dik{
+	padding: 3em 0 2.5em 0;
+	background-image: linear-gradient(rgba(0,0,0,0), rgb(0 0 0 / 40%));
+}
+li.campaign4 p.dun{
+	bottom: .5em;
+	padding: .5em;
+}
+
+/*noracism*/
 .noracism{
 	background-color: white;
-	max-width: 15em;
+	padding: 7em 1em;
+	box-shadow: .1em .1em .1em rgba(0, 0, 0, .1);
+}
+div.noracism h2, div.noracism p{
+	width: 70%;
+	margin: 0px auto;
+	padding: .25em 0;
+}
+div.noracism h2{
+	font-size: 2em;
+	padding: 0;
+}
+div.noracism p{
+	font-size: .4em;
+}
+div.noracism img{
+	max-width: 2em;
+	margin-top: 1em;
 }
 
-.slider{
-	display: flex;
+/*magazine*/
+.magazine{
+	background-color: #F1E9D4;
+    margin-top: 1.5em;
+	position: absolute;
+	left: 0;
+	right: 0;
 }
 
-.rond{
-	border-radius:50em;
-	max-width: 3em;
-	max-height: 3em;
+/*trending*/
+div.magazine h2{
+	font-size: 2.3em;
+	letter-spacing: 1px;
+	padding-top: 1em;
+	text-transform: uppercase;
+}
+
+.ondertitel{
+	font-size: 1em;
+	letter-spacing: 1px;
+	padding: .5em;
+	margin: 0;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+div.magazine img{
+	max-width: 100%;
+}
+
+div.magazine ul{
+    list-style-type: none;
+	width: 90%;
+	margin: 0px auto;
+	padding: .5em 0;
+}
+
+div.magazine li{
+	background-color: white;
+	margin-top: 2em;
+	padding-bottom: 1em;
+}
+
+.inside{
+	font-size: .8em;
+	margin-bottom: 0;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font-weight: lighter;
+}
+
+div.magazine li h3{
+	letter-spacing: .5px;
+	margin: 0;
+	padding: .5em 0 3em 0;
+}
+
+div.magazine p img {
+	max-width: .7em;
+	margin-left: .3em;
 }

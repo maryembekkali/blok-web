@@ -60,7 +60,7 @@ Ik heb bijna alle content van de eerste pagina gemaakt, hierbij moet ik alleen n
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+<!-- -samen met je groepje opstellen- -->
 
 | Student 1 - Zoe | Student 2 - Maryem | Student 3 - Anne | Student 4 - Sem |
 | ---            | ---                | ---          | ---              |
@@ -70,7 +70,9 @@ Ik heb bijna alle content van de eerste pagina gemaakt, hierbij moet ik alleen n
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+<!-- -na afloop snel uitkomsten vastleggen- -->
+<p>De studentassistenten gaven goede feedback en ideeën. Ik was natuurlijk nog niet heel ver, en had daarom ook niet veel inhoudelijke vragen. Ze gaven als tip om nog niet aan de slider te werken, omdat dit veel tijd gaat kosten. Ik zou dus beter met iets anders kunnen beginnen. Verder gaven ze tips over de interactie van de website en wat ik eventueel kan doen met de animaties. Zo legde ze uit dat ik bijvoorbeeld het toevoegen van een artikel in het verlanglijstje kan animeren of de hamburger menu.
+</p>
 
 
 
