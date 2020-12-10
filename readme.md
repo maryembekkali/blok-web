@@ -30,8 +30,22 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
--samen met je groepje opstellen-
+### Stand van zaken
+
+<!-- -dit ging goed & dit was lastig- -->
+<br>
+Deze week heb ik veel gewerkt aan mijn website. Ik heb de content van de eerste pagina helemaal vormgegeven. Er zijn een aantal dingetjes die nog niet helemaal goed werken zoals het menu/nav boven in de pagina. Verder moet ik de nog werken aan de interactie van de iste.
+
+**Screenshot(s):**
+
+<!-- -screenshot(s) van hoe ver je bent met korte uitleg- -->
+<br>
+Ik heb alle ccontent van de eerste pagina vormgegeven. De footer en de animaties die moet ik nog doen.
+<br>
+<img src="images/mijnwebsite2.png" width="375px" alt="eerste pagina h&m">
+
+<!-- -same as voortgang 1-
+-samen met je groepje opstellen- -->
 
 | Student 1 - Zoe | Student 2 - Maryem | Student 3 - Anne | Student 4 - Sem |
 | ---            | ---                | ---          | ---              |
@@ -46,13 +60,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+<!-- -dit ging goed & dit was lastig- -->
 <br>
 De huiswerkopdrachten gingen goed. Ik was er alleen wel lang mee bezig. Verder vond ik de opdrachten over Javascript nog best lastig. De lessen vind ik erg fijn en Vasilis geeft duidelijke antwoorden op de vragen.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+<!-- -screenshot(s) van hoe ver je bent met korte uitleg- -->
 <br>
 Ik heb bijna alle content van de eerste pagina gemaakt, hierbij moet ik alleen nog de footer. Ik ben al begonnen met het een en ander in CSS, maar ben daar nog niet heel ver mee.
 <br>
