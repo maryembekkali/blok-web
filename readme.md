@@ -31,7 +31,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Voortgang 2 (week 5)
 
 -same as voortgang 1-
+-samen met je groepje opstellen-
 
+| Student 1 - Zoe | Student 2 - Maryem | Student 3 - Anne | Student 4 - Sem |
+| ---            | ---                | ---          | ---              |
+| -  | Menu/nav  | Tekst in afbeelding  | Paralex scrol in afbeelding  |
+| - | Content na nav | Div in goed container | Slider animatie |
+| - | Hoeveelheid h1 | Breakdownschets controleren  | Flexbox layout |
+| - | Hoeveelheid css | -  | - |
+| - | Bronnen | -  | -
 
 
 ## Voortgang 1 (week 3)
