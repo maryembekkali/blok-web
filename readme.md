@@ -27,7 +27,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 <!-- -same as voortgang 1- -->
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+<!-- -dit ging goed & dit was lastig- -->
 <br>
 <p>Deze week heb ik niet veel tijd gehad om aan mijn website te werken. Ik heb in ieder geval gewerkt aan de feedback die ik tijdens het vorige gesprek heb gekregen. En ik heb de dingen uitgewerkt waarbij ik de vorige keer vast liep, omdat ik daar in het vorige gesprek uitleg over heb gekregen. Verder heb ik een begin gemaakt aan de tweede pagina van mijn website</p>
 
@@ -63,7 +63,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+<!-- -dit ging goed & dit was lastig- -->
 <br>
 <p>Deze week heb ik veel gewerkt aan mijn website. Ik heb de content van de eerste pagina helemaal vormgegeven. Er zijn een aantal dingetjes die nog niet helemaal goed werken zoals het menu/nav boven in de pagina. Verder moet ik de nog werken aan de interactie van de site.</p>
 
@@ -80,11 +80,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 | Student 1 - Zoe | Student 2 - Maryem | Student 3 - Anne | Student 4 - Sem |
 | ---            | ---                | ---          | ---              |
-| Elementen voor nav  | Menu/nav  | Tekst in afbeelding  | Paralex scrol in afbeelding  |
-| - | Content na nav | Div in goed container | Slider animatie |
-| - | Hoeveelheid h1 | Breakdownschets controleren  | Flexbox layout |
-| - | Hoeveelheid css | -  | - |
-| - | Bronnen | -  | -
+| toegankelijkheid | hoe ik ervoor sta | hoe ik ervoor sta | hoe ik ervoor sta |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - 
 
 ### Verslag van meeting
 
@@ -97,7 +96,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+<!-- -dit ging goed & dit was lastig- -->
 <br>
 <p>De huiswerkopdrachten gingen goed. Ik was er alleen wel lang mee bezig. Verder vond ik de opdrachten over Javascript nog best lastig. De lessen vind ik erg fijn en Vasilis geeft duidelijke antwoorden op de vragen.</p>
 
