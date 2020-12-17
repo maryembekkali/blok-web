@@ -29,7 +29,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 <!-- -dit ging goed & dit was lastig- -->
 <!-- <br> -->
-<p>Deze week heb ik niet veel tijd gehad om aan mijn website te werken. Ik heb in ieder geval gewerkt aan de feedback die ik tijdens het vorige gesprek heb gekregen. En ik heb de dingen uitgewerkt waarbij ik de vorige keer vast liep, omdat ik daar in het vorige gesprek uitleg over heb gekregen. Verder heb ik een begin gemaakt aan de tweede pagina van mijn website</p>
+<p>Deze week heb ik niet veel tijd gehad om aan mijn website te werken. Ik heb in ieder geval gewerkt aan de feedback die ik tijdens het vorige gesprek heb gekregen. Verder heb ik heb de dingen uitgewerkt waarbij ik de vorige keer vast liep, omdat ik daar in het vorige gesprek uitleg over heb gekregen. Verder heb ik een begin gemaakt aan de tweede pagina van mijn website.</p>
 
 **Screenshot(s):**
 
@@ -44,7 +44,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 -samen met je groepje opstellen- -->
 | Student 1 - Zoe | Student 2 - Maryem | Student 3 - Anne | Student 4 - Sem |
 | ---            | ---                | ---          | ---              |
-| toegankelijkheid | hoe ik ervoor sta | hoe ik ervoor sta | hoe ik ervoor sta |
+| Toegankelijkheid | Hoe ik ervoor sta | Hoe ik ervoor sta | Hoe ik ervoor sta |
 | - | - | - | - |
 | - | - | - | - 
 
