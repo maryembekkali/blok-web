@@ -32,7 +32,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
-<!-- -dit ging goed & dit was lastig- -->
+-dit ging goed & dit was lastig-
 <br>
 Deze week heb ik veel gewerkt aan mijn website. Ik heb de content van de eerste pagina helemaal vormgegeven. Er zijn een aantal dingetjes die nog niet helemaal goed werken zoals het menu/nav boven in de pagina. Verder moet ik de nog werken aan de interactie van de iste.
 
@@ -40,7 +40,7 @@ Deze week heb ik veel gewerkt aan mijn website. Ik heb de content van de eerste 
 
 <!-- -screenshot(s) van hoe ver je bent met korte uitleg- -->
 <br>
-Ik heb alle ccontent van de eerste pagina vormgegeven. De footer en de animaties die moet ik nog doen.
+Ik heb alle content van de eerste pagina vormgegeven. De footer en de animaties die moet ik nog doen.
 <br>
 <img src="images/mijnwebsite2.png" width="375px" alt="eerste pagina h&m">
 
@@ -55,12 +55,18 @@ Ik heb alle ccontent van de eerste pagina vormgegeven. De footer en de animaties
 | - | Hoeveelheid css | -  | - |
 | - | Bronnen | -  | -
 
+### Verslag van meeting
+
+<!-- -na afloop snel uitkomsten vastleggen- -->
+<p>Ik had best veel vragen voor dit gesprek. Het waren voornamelijk dingetjes waar mee ik vastliep. Ik heb op elke vraag een antwoord gekregen, wat erg fijn is, want nu kan ik weer door.
+</p>
+
 
 ## Voortgang 1 (week 3)
 
 ### Stand van zaken
 
-<!-- -dit ging goed & dit was lastig- -->
+-dit ging goed & dit was lastig-
 <br>
 De huiswerkopdrachten gingen goed. Ik was er alleen wel lang mee bezig. Verder vond ik de opdrachten over Javascript nog best lastig. De lessen vind ik erg fijn en Vasilis geeft duidelijke antwoorden op de vragen.
 
