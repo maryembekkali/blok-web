@@ -6,8 +6,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
+1. -	https://www.w3schools.com/cssref/pr_text_text-decoration.asp
+2. -	https://www.w3schools.com/cssref/tryit.asp?filename=trycss_overflow
 3. -...-
 
 
@@ -15,10 +15,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Eindgesprek (week 7/8)
 
 -dit ging goed & dit was lastig-
+INVULLEN
 
 **Screenshot(s):**
 
 -screenshot(s) van je eindresultaat-
+INVULLEN
 
 
 

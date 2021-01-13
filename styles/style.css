@@ -18,9 +18,10 @@ header{
     right: 0;
     background-color: #FAF9F8;
     z-index: 2;
+    padding-bottom: 3em;
 }
 
-nav{
+/*nav{
     display: flex;
     align-items: center;
     padding: 0em;
@@ -38,7 +39,7 @@ nav ul{
 
 nav li{
 	flex-grow: 1;
-}
+}*/
 
 header img{
 	max-width: 1.5em;
@@ -48,9 +49,6 @@ header img{
 
 /*main*/
 main{
-/*	position: relative;
-	top: 100px;*/				/*deze 2 eigenlijk zodat main onder header begint, maar dan komt header eronder.*/
-	
 	width: 90%;
 	margin: 0px auto;
 }
@@ -92,41 +90,7 @@ h1.subscribe{
 p.subscribe{
 	font-size: .8em;
 }
-/*trending*/
-div.trending h1{
-	font-size: 1em;
-	display: flex;
-	justify-content: left;
-	padding: 1em 0 0 0;
-}
 
-div.trending ul{
-    list-style-type: none;
-    display: flex;
-    padding: 0em;
-    justify-content: center;
-}
-
-div.trending li{
-	flex-grow: 1;
-}
-
-div.trending img{
-	border-radius:50em;
-	max-width: 4.3em;
-	margin: 0 0 .5em 0;
-}
-
-div.trending p{
-	font-size: .6em;
-	margin: .5em 0;
-	font-weight: bold;
-}
-
-.categorie{
-	font-weight: bold;
-	color: #555555;
-}
 
 /*campaign*/
 div.campaign ul{
@@ -240,6 +204,7 @@ li.campaign4 p.dun{
 	background-color: white;
 	padding: 7em 1em;
 	box-shadow: .1em .1em .1em rgba(0, 0, 0, .1);
+	margin-bottom: 100em;
 }
 div.noracism h2, div.noracism p{
 	width: 70%;
@@ -259,13 +224,14 @@ div.noracism img{
 }
 
 /*magazine*/
+
 .magazine{
 	background-color: #F1E9D4;
     margin-top: 1.5em;
 	position: absolute;
 	left: 0;
 	right: 0;
-}
+	top:147em;}
 
 /*trending*/
 div.magazine h2{
@@ -332,3 +298,399 @@ h1.titel{
 	text-transform: uppercase;
 	font-weight: normal;
 }
+
+
+/*trending en slider*/
+div.trending h1{
+	font-size: 1em;
+	display: flex;
+	justify-content: left;
+	padding: 1em 0 0 0;
+}
+
+div.trending ul{
+	list-style-type: none;
+    display: flex;
+    padding: 0em;
+    overflow: scroll;
+}
+
+div.trending li{
+	flex-grow: 1;
+
+
+	list-style-type: none;
+    padding: 0em 0.35em 0em 0.35em;
+}
+
+div.trending img{
+	border-radius:50em;
+	max-width: 4.3em;
+	margin: 0 0 .5em 0;
+}
+
+div.trending p{
+	font-size: .6em;
+	margin: .5em 0;
+	font-weight: bold;
+}
+
+.categorie{
+	font-weight: bold;
+	color: #555555;
+}
+
+/*infoparagraaf*/
+.infoparagraaf{
+	line-height: 1.5em;
+	letter-spacing: .5px;
+	font-size: .8em;
+}
+
+/*menu tops*/
+.topsmenu{
+    display: flex;
+    align-items: center;
+    padding: 0em 3em;
+
+}
+
+ .topsmenu img{
+	max-width: 1.5em;
+	margin: .5em .25em;
+}
+
+.samen{
+	display: flex;
+	align-items: center;
+
+	letter-spacing: .5px;
+	font-size: .8em;
+	text-transform: uppercase;
+}
+
+/*productmenu*/
+.samen2{
+	display: flex;
+	align-items: center;
+
+	letter-spacing: 1px;
+	font-size: .8em;
+}
+
+.productmenu{
+    display: flex;
+    align-items: center;
+    padding: 0em;
+	list-style-type: none;
+}
+
+.productmenu li{
+	padding-right: .75em; 
+}
+
+ .productmenu img{
+	max-width: 1.5em;
+	margin: .5em .25em;
+}
+
+.productmenurechts{
+	padding-left: 5.3em;
+}
+
+.selected{
+	color: #E50010;
+	text-decoration: underline;
+}
+
+/*producten*/
+.producten{
+	list-style-type: none;
+	letter-spacing: 1px;
+	font-size: .8em;
+	padding: 0;
+	text-align: left;
+
+
+	display: grid;
+	grid-template-columns: repeat(2, 12.5em);
+}
+
+.producten p{
+	margin: .5em 0em 0em 0em;
+}
+
+.producten li{
+	padding-bottom: 2em;
+	position: relative;
+}
+
+.artikel{
+	max-width: 12em;
+}
+
+.hartje{
+	position: absolute;
+	bottom: 6.5em;
+	right: 1.5em;
+	max-width: 2em;
+}
+
+.aantalproducten p{
+	text-align: center;
+	letter-spacing: .5px;
+	font-size: .8em;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.aantalproducten img{
+	max-width: 100%;
+}
+
+button{
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	font-size: 1em;
+
+	border: none;
+	width: 100%;
+	margin: 1em 0;
+	padding: .25em;
+}
+
+/*more*/
+.more {
+	text-align: center;
+	letter-spacing: .5px;
+	font-size: .8em;
+	font-weight: bold;
+	padding: 3em 0;
+}
+
+.aantalproducten button{
+	padding: .75em 0;
+	margin-top: .5em;
+	font-size: 1.1em;
+}
+
+.more button{
+	background-color: white;
+	color: black;
+	max-width: 70%;
+	text-transform: uppercase;
+	padding: 0;
+
+	padding: .75em 0;
+	margin: 0;
+	font-size: 1.1em;
+}
+
+.hoofletter{
+	text-transform: uppercase;
+	font-size: 1em;
+}
+
+/*footer*/
+footer{
+	background-color: #e4e4e4;
+	position: absolute;
+	left: 0;
+	right: 0;
+
+}
+
+.footermenu{
+	list-style-type: none;
+	padding: 2em;
+	margin: 0;
+	text-transform: uppercase;
+	letter-spacing: .5px;
+	font-size: .8em;
+	font-weight: bold;
+}
+
+.footermenu li{
+	display: flex;
+	align-items: center;
+	padding-bottom: .8em;
+	margin: 0;
+}
+
+.icoonrechts{
+	max-width: 1em;
+	position: absolute;
+	right: 2.5em;
+}
+
+.member {
+	display: flex;
+	align-items: center;
+	padding: 0 0 .8em 2em;
+}
+
+
+.socials img{
+	max-width: 1.75em;
+}
+
+.socials ul{
+	display: flex;
+	padding: 1em 2em;
+}
+
+.socials li{
+	position: relative;
+	padding-right: 2.5em;
+	margin: 0;
+	list-style-type: none;
+	align-items: center; 
+}
+
+.hennesmauritz{
+	max-width: 12em;
+	margin-top: 2em;
+	margin-bottom: 3em;
+}
+
+/*menu animatie*/
+/*zodat hamburgermenu op de juiste plek staat*/
+.menuToggle{
+	display: block;
+	position: relative;
+	top: 2em;
+	left: 2.2em;
+	z-index: 1;
+}
+
+/*hamburgericoontje*/
+.menuToggle input{
+	display: block;
+	width: 40px;
+	height: 32px;
+	position: absolute;
+	top: -7px;
+	left: -5px;
+  	opacity: 0; /* zodat het vinkje weg gaat */
+  	z-index: 2;
+}
+
+/*van hamburger naar kruisje*/
+.menuToggle span{
+	display: block;
+	width: 33px;
+	height: 4px;
+	margin-bottom: .3em;
+	position: relative;
+	 
+	background: black;
+	border-radius: .3em;
+	  
+	z-index: 1;
+	  
+	transform-origin: 4px 0px;
+	  
+	transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+	              background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+	              opacity 0.55s ease;
+}
+
+/*de streepjes van hamburger en kruisje*/
+.menuToggle span:nth-last-child(2){
+ 	transform-origin: 0% 100%;
+}
+
+.menuToggle input:checked ~ span{
+	opacity: 1;
+  	transform: rotate(45deg) translate(-2px, -1px);
+}
+
+/*middelste weg doen*/
+.menuToggle input:checked ~ span:nth-last-child(3){
+	opacity: 0;
+	transform: rotate(0deg) scale(0.2, 0.2);
+}
+
+/*laatste streepje moet omhoog*/
+.menuToggle input:checked ~ span:nth-last-child(2){
+	transform: rotate(-45deg) translate(0, -1px);
+}
+
+/*menu*/
+.menu{
+	position: absolute;
+	width: 23em;
+	margin: -8em 0 0 -4em;
+	padding: 3.7em;
+	padding-top: 9em;
+
+	text-align: left;
+	  
+	background: #F2E4DE;
+	list-style-type: none;
+	  
+	transform-origin: 0% 0%;
+	transform: translate(-100%, 0);
+	  
+	transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
+}
+
+.menu li{
+	font-size: 1.3em;
+	letter-spacing: .5px;
+	display: flex;
+	align-items: center;
+	padding: 0;
+}
+
+.menuToggle input:checked ~ ul{
+	transform: none;
+}
+
+.pijlmenu{
+	max-width: .75em;
+	padding: 0;
+	position: absolute;
+	right: 1.5em;
+}
+
+
+/*rechtermenu*/
+.menurechts{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    flex-grow: 1;
+    position: absolute;
+    top: .3em;
+    right: 1em;
+    padding: 0em;
+}
+
+.menurechtsli{
+	padding-left: .75em;
+}
+
+.logo{
+	position: absolute;
+	top: 1.75em;
+	left: 5em;
+}
+
+/*animatie */
+
+button{
+	margin-top: 6em;
+}
+
+article{
+	border: 2px solid gray;
+	padding: 2em;
+	margin: 1em;
+}
+article.yay{
+	background:pink;
+}
+
