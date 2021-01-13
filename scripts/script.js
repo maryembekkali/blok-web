@@ -1,13 +1,10 @@
-console.log("kijken of het werkt");
-
 var button = document.querySelector("button")
-console.log("button");
+// console.log("button");
 
-var article = document.querySelector("article")
-console.log("element");
+var body = document.querySelector("body")
+// console.log("dit is de body");
 
-// article.classList.add("yay");
 
 button.addEventListener("click", function() {
-  console.log("button was clicked")
+  body.classList.toggle("achtergrondkleur")
 });

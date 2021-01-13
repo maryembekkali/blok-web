@@ -21,26 +21,6 @@ header{
     padding-bottom: 3em;
 }
 
-/*nav{
-    display: flex;
-    align-items: center;
-    padding: 0em;
-}
-
-nav div{
-	flex-grow: 1;
-}
-
-nav ul{
-	list-style-type: none;
-    flex-grow: 1;
-    display: flex;
-}
-
-nav li{
-	flex-grow: 1;
-}*/
-
 header img{
 	max-width: 1.5em;
 	margin: .5em .25em;
@@ -679,18 +659,15 @@ footer{
 	left: 5em;
 }
 
-/*animatie */
-
+/*voor js*/
 button{
-	margin-top: 6em;
+	margin-top: 2em;
 }
 
-article{
-	border: 2px solid gray;
-	padding: 2em;
-	margin: 1em;
-}
-article.yay{
-	background:pink;
+body.achtergrondkleur{
+	background: #E3DFD3;
 }
 
+
+/*mediaqueries*/
+vanaf 480 3 afbeeldingen
