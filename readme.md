@@ -20,7 +20,8 @@ INVULLEN
 **Screenshot(s):**
 
 -screenshot(s) van je eindresultaat-
-INVULLEN
+<img src="images/eindhome.jpg" width="375px" alt="mijn eerste pagina">
+<img src="images/einddres.jpg" width="375px" alt="mijn tweede pagina">
 
 
 
