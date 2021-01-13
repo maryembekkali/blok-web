@@ -6,20 +6,22 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -	https://www.w3schools.com/cssref/pr_text_text-decoration.asp
-2. -	https://www.w3schools.com/cssref/tryit.asp?filename=trycss_overflow
-3. -...-
+1. https://www.w3schools.com/cssref/pr_text_text-decoration.asp
+2. https://www.w3schools.com/cssref/tryit.asp?filename=trycss_overflow
+3. https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_buttons_animate2
+4. https://www2.hm.com/nl_nl/index.html
 
 
 
 ## Eindgesprek (week 7/8)
 
 -dit ging goed & dit was lastig-
-INVULLEN
+Uiteindelijk ben ik erg tevreden met het resultaat. Ik vond het nog best lastig om animaties te bedenken en te maken. Verder liep ik ook even vast met het toevoegen van JS. Ik heb een klasgenoot om hulp gevraagd en het bleek een klein dingetje te zijn. Verder heb ik zowel aan animaties als responsiveness gewerkt. Ik vind programmeren erg leuk, maar als ik vast loop dan kan ik mijn laptop wel uit het raam gooien.
 
 **Screenshot(s):**
 
 -screenshot(s) van je eindresultaat-
+<br>
 <img src="images/eindhome.jpg" width="375px" alt="mijn eerste pagina">
 <img src="images/einddres.jpg" width="375px" alt="mijn tweede pagina">
 

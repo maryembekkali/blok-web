@@ -204,7 +204,6 @@ div.noracism img{
 }
 
 /*magazine*/
-
 .magazine{
 	background-color: #F1E9D4;
     margin-top: 1.5em;
@@ -394,6 +393,7 @@ div.trending p{
 
 	display: grid;
 	grid-template-columns: repeat(2, 12.5em);
+
 }
 
 .producten p{
@@ -669,5 +669,118 @@ body.achtergrondkleur{
 }
 
 
-/*mediaqueries*/
-vanaf 480 3 afbeeldingen
+/*hartjes animatie*/
+@keyframes hartjeAnimatie {
+	0%{
+		transform: scale(1);
+	}
+	25%{
+	    transform: scale(2);
+	}
+	50%{
+	  	transform: scale(1);
+	}
+	100%{
+	    transform: scale(2);
+	}
+}
+
+ul.producten:hover img.hartje {
+  animation-name: hartjeAnimatie;
+  animation-duration: 1s;
+}
+
+/*knopanimatie*/
+button{
+	position: relative;
+ 	transition-duration: 0.5s;
+  	overflow: hidden;
+}
+
+button:after{
+	content: "";
+	background: #CD0419;
+	display: block;
+	position: absolute;
+	padding-top: 300%;
+	padding-left: 350%;
+	margin-left: -20px!important;
+	margin-top: -120%;
+	opacity: 0;
+	transition: 1s
+}
+
+button:active:after {
+	padding: 0;
+	margin: 0;
+	opacity: 1;
+	transition: 0s
+}
+
+
+@media only screen and (min-width: 480px){
+	.producten{
+		font-size: .9em;
+		display: grid;
+		grid-template-columns: repeat(3, 13em);
+	}
+
+	.samen .samen2{
+		font-size: .9em;
+	}
+
+	.productmenurechts{
+		padding-left: 19em;
+	}
+
+	.topsmenu{
+		padding: 0em 6em;
+	}
+
+	.socials ul{
+		padding: 1em 9em;
+	}
+
+	.logo{
+		min-width: 2em;
+	}
+}
+
+@media only screen and (min-width: 770px) {
+	div.magazine ul{
+		display: flex;
+	}
+
+	div.magazine li{
+		max-width: 30%;
+		margin-left: 2em;
+	}
+
+	.magazine{
+		top: 205em;
+		padding-bottom: 1em;
+	}
+
+	.noracism{
+		margin-bottom: 41em;
+	}
+
+	.socials ul {
+		padding: 1em 19em;
+	}
+
+	.member{
+		justify-content: center;
+		padding: 0;
+		margin: 0;
+	}
+
+	.footermenu li{
+		padding-left: 26em;
+	}
+
+	.icoonrechts{
+		right: 19em;
+	}
+
+}
