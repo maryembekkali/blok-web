@@ -23,6 +23,7 @@ Uiteindelijk ben ik erg tevreden met het resultaat. Ik vond het nog best lastig 
 -screenshot(s) van je eindresultaat-
 <br>
 <img src="images/eindhome.jpg" width="375px" alt="mijn eerste pagina">
+<br>
 <img src="images/einddres.jpg" width="375px" alt="mijn tweede pagina">
 
 
